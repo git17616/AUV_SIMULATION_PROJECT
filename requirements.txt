@@ -1,0 +1,10 @@
+# Add pinned versions after verifying the local HoloOcean and Python environment.
+# holoocean
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pydantic
+pyyaml
+pytest

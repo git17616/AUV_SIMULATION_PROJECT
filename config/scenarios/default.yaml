@@ -1,0 +1,10 @@
+scenario_id: default_scenario
+description: Placeholder scenario; fill in values supported by the installed HoloOcean version.
+seed: 42
+duration_seconds: null
+environment:
+  world: null
+  bathymetry_asset: null
+vehicles: []
+sensors: []
+notes: Verify scenario fields against the HoloOcean API before use.

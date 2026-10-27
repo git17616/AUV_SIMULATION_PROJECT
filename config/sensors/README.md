@@ -1,0 +1,1 @@
+Record each configured sensor, its simulator name/type, output fields, units, update rate and whether data are native or derived. Do not assume sensor availability without verifying the selected HoloOcean scenario.
